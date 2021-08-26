@@ -5,7 +5,7 @@
 
 
 #-------------------------------------------------------------
-#-------------1. Load the required packages----------------
+#-------------1. Load the required packages-------------------
 #-------------------------------------------------------------
 
 # install.packages("lavaan") #remove the first "#" and run if not already installed
