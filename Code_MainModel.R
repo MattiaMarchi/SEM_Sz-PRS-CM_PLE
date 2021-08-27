@@ -8,9 +8,9 @@
 #-------------1. Load the required packages-------------------
 #-------------------------------------------------------------
 
-# install.packages("lavaan") #remove the first "#" and run if not already installed
+# install.packages("lavaan") # run if not already installed
 library(lavaan)
-# install.packages("tidySEM") #remove the first "#" and run if not already installed
+# install.packages("tidySEM") # run if not already installed
 library(tidySEM)
 
 
