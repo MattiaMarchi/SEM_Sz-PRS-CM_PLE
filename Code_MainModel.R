@@ -50,7 +50,7 @@ CM ~~ Cannabis #model correlation between mediators
 '
 #a1, a2, b1, b2, c: are labels. I suggest to not change them.
 fit <- sem(model_mma, sample.cov = m,
-           sample.nobs = 918)
+           sample.nobs = 1262)
 
 #Estimate the model
 summary(fit, fit.measures = TRUE, standardized = TRUE, rsquare = TRUE)
